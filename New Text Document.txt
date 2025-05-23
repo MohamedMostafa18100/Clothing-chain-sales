@@ -1,0 +1,19 @@
+Change Header's Font Size , Fit , Column-names
+Check Spelling in the City Value columns Using (Spell Checking Tool)
+Detect Missing data and Deal with them Either with Deleting or Filling them with a Suitable Alternative Using (Filter)
+Trim The Column (Remove Spaces)
+Capitalizing the first character in the Columns with (Proper)
+Gather all the 'Product Name' Columns Together in 1 column With (Text Join / Concate)
+Replace the (-) with (/) in Date Columns for Better Readability and Usage using (Number Format )
+Remove duplicate records using (Remove Duplicates Tool)
+Merge 'first_name' , 'last_name'
+Check Column's Format and Put $ for Currency and % for Discount
+Consider decimal points in Currency and Discount
+Add Total Column which Calculates with Q * Unt
+Add Discount Column
+Add Total after Discount Column
+Creating Vlookup Values for each Category
+Outlier analysis on the year column and remove the error (Example:year 2099)
+Freeze Panel to easily see the Header of the Dataset While Scrolling
+Make Segments with ifs for the Age
+Clear all Formats from the Cells
